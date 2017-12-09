@@ -1,5 +1,4 @@
 import { getStore } from "kea";
-import { compose } from "redux";
 import persistState from "redux-localstorage";
 
 let enhancers = [];
